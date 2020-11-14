@@ -1,5 +1,5 @@
 # STAT 406 Project - Fall 2020
-## Built for the Bubble
+## NBA: Built for the Bubble
 * Isaac Ke, Johnathan Lo, Michael Lee, and Tianyi Jiang
 * Full Factorial Design  
 * [Analyses](https://github.com/isaacke9/built-for-the-bubble/tree/main/JMP%20files) of [6 key players](https://github.com/isaacke9/built-for-the-bubble/tree/main/data) and their performance in pre-covid arenas versus in the bubble:  
