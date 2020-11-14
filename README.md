@@ -28,10 +28,10 @@ the Bubble. The Bubble provided a contrast to the usual regime of home and away 
 teams competed on the same court without fan presence, it is conceivable that the effect of home and
 away games on player performance might have changed in the Bubble. For a few players, this perceived
 difference between their normal play and their Bubble play seemed especially pronounced. These
-differences were seized upon by the media and developed into influential narratives that shaped the
-2020 NBA postseason. As such, we were particularly interested in assessing whether the Bubble effect
-was real for these specific players, and whether these effects conform to the media narrative.</p>
-<p>The primary objective of our investigation was to identify the effects of home and Bubble games
+differences were exploited by the media and developed into influential narratives that shaped the
+2020 NBA postseason. As such, we were particularly interested in assessing whether the Bubble phenom
+was real for these specific players, and whether or not these effects conformed to the media narrative.</p>
+<p>The primary objective of our analyses was to identify the effects of home and Bubble games
 on player performance. The Bubble provided an unprecedented opportunity to examine the impact of
 fans and packed arenas on professional sport outcomes by providing a controlled, identical setting for
 competition. Using a full factorial design, we tested the significance and magnitude of playing at home,
