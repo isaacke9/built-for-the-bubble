@@ -12,4 +12,4 @@
 * Data from [Basketball-Reference](https://www.basketball-reference.com/ "Basketball Reference") 
 * Analysis done in [JMP Pro 15](https://www.jmp.com/en_in/software/new-release/new-in-jmp-and-jmp-pro.html)  
   
-* A full report containing an introduction to the problem, explanation of methods, model results, conclusions, and discussion can be found here: [Report](https://github.com/isaacke9/built-for-the-bubble/blob/main/Report.pdf)
+* A full report containing an introduction to the problem, explanation of methods, model results, conclusions, and discussion can be found [here](https://github.com/isaacke9/built-for-the-bubble/blob/main/Report.pdf)
